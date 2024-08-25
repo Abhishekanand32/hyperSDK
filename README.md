@@ -2,11 +2,11 @@
 
 <p align="center">setting the constants in consts/consts.go</p>
 
-<img align="center" width="581" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724434661/Screenshot_2024-08-23_230707_vtnphp.png">
+<img align="center" width="581" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724602150/Abhishek_hyperSDK_1_jb1zuh.jpg">
 
 <p align="center">Adding the code in registry/registry.go</p>
 
-<img width="822" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724434661/Screenshot_2024-08-23_230718_v78170.png">
+<img width="822" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724602150/Abhishek_hyperSDK_2_wrp0ti.jpg">
 
 <p >launching the subnet using the following command.</p>
 
@@ -62,7 +62,7 @@ let's create our own asset. You can do so by running the following command:
 ```
 
 When you are done, the output should look something like this:
-<img width="580" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724434173/swarnali_hypersdk_1_mvk44o.jpg">
+<img width="580" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724602150/Abhishek_hyperSDK_3_lfwudu.jpg">
 
 _`txID` is the `assetID` of your new asset._
 
@@ -80,7 +80,7 @@ running the following command:
 
 When you are done, the output should look something like this:
 
-<img width="595" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724434173/swarnali_hypersdk_2_jw2gvn.jpg">
+<img width="595" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724602150/Abhishek_hyperSDK_4_kackei.jpg">
 
 #### Step 3: View our Balance
 
@@ -92,11 +92,11 @@ so by running the following command:
 ```
 
 When you are done, the output should look something like this:
-<img width="644" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724434173/swarnali_hypersdk_3_xglljj.jpg">
+<img width="644" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724602150/Abhishek_hyperSDK_5_ggoxve.jpg">
 
 All the operations together.
 
-<img width="729" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724434174/swarnali_hypersdk_4_bbjkif.jpg">
+<img width="729" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724602150/Abhishek_hyperSDK_6_vaqwc1.jpg">
 
 Apart from the above shown function our custom subnet can also perform following function.
 
